@@ -1,0 +1,94 @@
+var info_Clientes = [
+    {
+        "id":1,
+        "cedula":"1316281136",
+        "nombre":"Tolly Mieles",
+        "direccion":"Av.15 entre calles 13 y 14",
+        "telefono":"0983337459",
+        "correo":"tolly01@gmail.com"
+    },
+
+    {
+        "id":2,
+        "cedula":"1312435546",
+        "nombre":"Chris Catagua",
+        "direccion":"Av.15 entre calles 13 y 14",
+        "telefono":"0998984327",
+        "correo":"Chris@gmail.com"
+    },
+
+    {
+        "id":3,
+        "cedula":"1322198786",
+        "nombre":"Mike Avalos",
+        "direccion":"Barrio 5 de junio",
+        "telefono":"0998712342",
+        "correo":"mike@gmail.com"
+    },
+
+    {
+        "id":4,
+        "cedula":"1398743321",
+        "nombre":"Andary Chavez",
+        "direccion":"Ciudadela los Electricos",
+        "telefono":"0996364585",
+        "correo":"AndyChavez@gmail.com"
+        
+    },
+
+    {
+        "id":5,
+        "cedula":"1309589776",
+        "nombre":"Rosa Fernandez",
+        "direccion":"Los Gavilanes",
+        "telefono":"0995423985",
+        "correo":"rosif@gmail.com" 
+    },
+
+    {
+        "id":6,
+        "cedula":"1132786546",
+        "nombre":"Hector Fernandez",
+        "direccion":"Ciudadela terrazas del conde",
+        "telefono":"0987642351",
+        "correo":"hectorFer@gmail.com"
+        
+    },
+
+    {
+        "id":7,
+        "cedula":"1321786542",
+        "nombre":"Cesar Catagua",
+        "direccion":"Calle 13",
+        "telefono":"0991324573",
+        "correo":"cesarcatagua@gmail.com"
+    },
+
+    {
+        "id":8,
+        "cedula":"1395622678",
+        "nombre":"Elias Mieles",
+        "direccion":"Ciudad del sol",
+        "telefono":"09679327261",
+        "correo":"eliasmieles@gmail.com"
+    },
+
+    {
+        "id":9,
+        "cedula":"1315591683",
+        "nombre":"David Carreño",
+        "direccion":"Av.24 calle 11",
+        "telefono":"0989456324",
+        "correo":"davidcarre@gmail.com"
+    },
+
+    {
+        "id":10,
+        "cedula":"1632124567",
+        "nombre":"Marco Moreira",
+        "direccion":"Calle siempre viva",
+        "telefono":"0987654329",
+        "correo":"marcomoreira@gmail.com"
+    }
+
+]
